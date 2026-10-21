@@ -1,0 +1,6 @@
+.godot/
+build/
+shots/
+.runtime/
+*.glb
+*.zip
